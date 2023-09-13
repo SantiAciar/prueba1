@@ -1,0 +1,8 @@
+<?php
+function suma($num1,$num2,$num3,$num4,$num5){
+
+    return $num1+$num2+$num3+$num4+$num5;
+}
+$resultado=suma(45,63,67,12,9);
+echo "El resultado es : $resultado";
+?>

@@ -1,0 +1,8 @@
+ <?php
+ function SumarNumero($num1, $num2,$num3){
+
+    return $num1+$num2+$num3;
+    }
+    $Total=SumarNumero(10,20,30);
+    echo "El Total es : $Total";
+    ?>
